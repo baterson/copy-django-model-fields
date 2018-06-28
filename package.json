@@ -2,7 +2,7 @@
     "name": "copy-django-model-fields",
     "displayName": "Copy Django model fields",
     "description": "Allows you to copy Django model fields and paste them as a tuple of field names",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "baterson",
     "engines": {
         "vscode": "^1.24.0"
@@ -10,6 +10,7 @@
     "keywords": [
         "django"
     ],
+    "icon": "icon.png",
     "categories": [
         "Other"
     ],
